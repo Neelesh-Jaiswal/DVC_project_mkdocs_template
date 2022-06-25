@@ -10,7 +10,7 @@ site_description: >-
 
 # Repository
 repo_name: Neelesh-Jaiswal/REPO_NAME
-repo_url: https://github.com/Neelesh-Jaiswal/REPO_NAME
+repo_url: https://github.com/Neelesh-Jaiswal/DVC_project_mkdocs_template
 
 # Configuration
 theme:
